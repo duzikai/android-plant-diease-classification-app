@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">plant_disease</string>
+    <string name="image_view">Image View</string>
+    <string name="select">选择图片</string>
+    <string name="detect">检测</string>
+    <string name="detecting">正在检测</string>
+</resources>
